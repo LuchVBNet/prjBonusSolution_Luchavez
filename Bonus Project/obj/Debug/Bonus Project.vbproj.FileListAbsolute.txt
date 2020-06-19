@@ -1,0 +1,12 @@
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.pdb
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.xml
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbprojAssemblyReference.cache
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.frmMain.resources
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.Resources.resources
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.GenerateResource.cache
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.exe
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.xml
+D:\Visual Studio\Week 4\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.pdb
